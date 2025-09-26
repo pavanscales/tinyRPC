@@ -47,7 +47,7 @@
   resolved "https://registry.npmjs.org/@tsconfig/node16/-/node16-1.0.4.tgz"
   integrity sha512-vxhUy4J8lyeyinH7Azl1pdd43GJhZH/tP2weN8TntQblOY+A0XbT8DJk1/oCPuOOyg/Ja757rG0CgHcWC8OfMA==
 
-"@types/node@*", "@types/node@^24.5.2":
+"@types/node@^24.5.2":
   version "24.5.2"
   resolved "https://registry.npmjs.org/@types/node/-/node-24.5.2.tgz"
   integrity sha512-FYxk1I7wPv3K2XBaoyH2cTnocQEu8AOZ60hPbsyukMPLv5/5qr7V1i8PLHdl6Zf87I+xZXFvPCXYjiTFq+YSDQ==
@@ -124,7 +124,7 @@ ts-node@^10.9.2:
     v8-compile-cache-lib "^3.0.1"
     yn "3.1.1"
 
-typescript@^5.9.2, typescript@>=2.7:
+typescript@^5.9.2:
   version "5.9.2"
   resolved "https://registry.npmjs.org/typescript/-/typescript-5.9.2.tgz"
   integrity sha512-CWBzXQrc/qOkhidw1OzBTQuYRbfyxDXJMVJ1XNwUHGROVmuaeiEm3OslpZ1RV96d7SKKjZKrSJu3+t/xlw3R9A==
@@ -146,5 +146,5 @@ yn@3.1.1:
 
 zod@^4.1.11:
   version "4.1.11"
-  resolved "https://registry.npmjs.org/zod/-/zod-4.1.11.tgz"
+  resolved "https://registry.yarnpkg.com/zod/-/zod-4.1.11.tgz#4aab62f76cfd45e6c6166519ba31b2ea019f75f5"
   integrity sha512-WPsqwxITS2tzx1bzhIKsEs19ABD5vmCVa4xBo2tq/SrV4RNZtfws1EnCWQXM6yh8bD08a1idvkB5MZSBiZsjwg==
